@@ -1,0 +1,28 @@
+/* Google font */
+
+@import url("https://fonts.googleapis.com/css2?family=Almarai:wght@400;700;800&display=swap");
+body {
+    font-family: "Almarai", sans-serif;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Almarai", sans-serif;
+    font-weight: 800;
+}
+
+
+/* Text */
+
+.gradient-text {
+    color: #51B2F3;
+    background: -webkit-linear-gradient(45deg, #51B2F3, #A8EAB1);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent
+}
